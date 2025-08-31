@@ -63,7 +63,7 @@ function Header({ currentMode, onShowRules, onShowModes, onShowLeaderboard }: He
               {/* <Target className="w-6 h-6 text-white" /
               > */}
               <img
-                src="assets/logo.png"
+                src="https://i.postimg.cc/fbx36DD7/Chat-GPT-Image-Aug-31-2025-05-56-08-PM.png"
                 alt="Reaction Speed Logo"
                 onClick={() => window.location.reload()}
                 width={220}
