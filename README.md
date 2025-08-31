@@ -19,7 +19,15 @@
 
 ## 🎮 Live Demo
 
-🌐 **[Play the Game Now!](https://reactionspeedgame.netlify.app/)**
+🌐 **[Play the Game Now on website!](https://reactionspeedgame.netlify.app/)**
+
+🌐 **[Play the Game Now on mobile!](https://reactionspeedgame.netlify.app/)**
+
+<div align="center">
+  <a href="https://postimg.cc/fVBSpfmt">
+    <img src="https://i.postimg.cc/43TvK835/Untitled.jpg" alt="Untitled QR" width="250"/>
+  </a>
+</div>
 
 ## 📹 Demo Video
 
