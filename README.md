@@ -7,7 +7,7 @@
 
 **Test your reflexes in this fast-paced, addictive browser game!**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-🚀%20Play%20Now-brightgreen)](https://reaction-speed-game.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-🚀%20Play%20Now-brightgreen)](https://reactionspeedgame.netlify.app/)
 [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org)
 [![Vite](https://img.shields.io/badge/Vite-4.4.0-646CFF)](https://vitejs.dev)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.0-38B2AC)](https://tailwindcss.com)
@@ -19,7 +19,7 @@
 
 ## 🎮 Live Demo
 
-🌐 **[Play the Game Now!](https://reaction-speed-game.vercel.app)**
+🌐 **[Play the Game Now!](https://reactionspeedgame.netlify.app/)**
 
 ## 📹 Demo Video
 
@@ -289,6 +289,6 @@ copies of the Software.
 
 **⭐ Star this repo if you found it helpful! ⭐**
 
-**🎯 [Play Now](https://reaction-speed-game.vercel.app) | 📖 [Documentation](./docs) | 🐛 [Report Bug](https://github.com/AbhishekRDJ/reaction-speed-game/issues) | 💡 [Request Feature](https://github.com/AbhishekRDJ/reaction-speed-game/issues)**
+**🎯 [Play Now](https://reactionspeedgame.netlify.app/) | 📖 [Documentation](./docs) | 🐛 [Report Bug](https://github.com/AbhishekRDJ/reaction-speed-game/issues) | 💡 [Request Feature](https://github.com/AbhishekRDJ/reaction-speed-game/issues)**
 
 </div>
