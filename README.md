@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2>React Speed <h2/>
+<h2>Reaction Speed <h2/>
 
 <!-- Logo placeholder - replace with actual logo -->
 ![Reaction Speed Game Logo](https://i.postimg.cc/fbx36DD7/Chat-GPT-Image-Aug-31-2025-05-56-08-PM.png)
