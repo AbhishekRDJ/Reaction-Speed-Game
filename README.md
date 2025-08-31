@@ -3,7 +3,15 @@
 <h2>Reaction Speed <h2/>
 
 <!-- Logo placeholder - replace with actual logo -->
-![Reaction Speed Game Logo](https://i.postimg.cc/fbx36DD7/Chat-GPT-Image-Aug-31-2025-05-56-08-PM.png)
+<!-- Logo placeholder - replace with actual logo -->
+<img src="https://i.postimg.cc/fbx36DD7/Chat-GPT-Image-Aug-31-2025-05-56-08-PM.png" alt="Reaction Speed Game Logo" />
+
+<!-- 📹 Demo Video Button -->
+<p>
+  <a href="https://www.loom.com/share/3585387880e24d2f877d931a6ba9c168?sid=1f7fdda3-bbb1-4ea4-84a7-c7e74174075d" target="_blank">
+    <img src="https://img.shields.io/badge/Demo%20Video-🎥%20Watch%20Now-orange?style=for-the-badge" alt="Watch Demo Video"/>
+  </a>
+</p>
 
 **Test your reflexes in this fast-paced, addictive browser game!**
 
@@ -31,7 +39,7 @@
 
 ## 📹 Demo Video
 
-📺 **[Watch 60-Second Gameplay Video](https://youtube.com/watch?v=placeholder)**
+📺 **[Watch 60-Second Gameplay Video](https://www.loom.com/share/3585387880e24d2f877d931a6ba9c168?sid=1f7fdda3-bbb1-4ea4-84a7-c7e74174075d)**
 
 ---
 
